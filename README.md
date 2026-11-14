@@ -18,7 +18,7 @@ A compact, always-on-top Claude Code usage widget built with Python + PySide6. M
 
 The compact, always-on-top widget provides quick visibility into Claude Code usage without interrupting your workflow.
 
-![Claude Usage Float - Floating Widget](screenshot (2).png)
+![Claude Usage Float - Floating Widget](./screenshot1.png)
 
 ### Expanded Usage Panel
 
